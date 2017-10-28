@@ -9,19 +9,20 @@ The initial version of this site will only contain Grade 6/7 competencies.
 ###Setting Direction
 
 [1. Seeing the Big Picture](cscompetencyframwork/seeingthebigpicture)
-2. Changing and Improving
-3. Making Effective Decisions
 
+[2. Changing and Improving](cscompetencyframwork/changingandimproving)
+
+[3. Making Effective Decisions](cscompetencyframwork/makingeffectivedecisions)
 
 ###Engaging People
 
-4. Leading and Communicating
-5. Collaborating and Partnering
-6. Building Capability for All
+[4. Leading and Communicating](cscompetencyframwork/leadingandcommunicating)
+[5. Collaborating and Partnering](cscompetencyframwork/collaboratingandpartnering)
+[6. Building Capability for All](cscompetencyframwork/buildingcapabilityforall)
 
 ###Delivering Results
 
-7. Achieving Commercial Outcomes
-8. Delivering Value for Money
-9. Managing a Quality Service
-10. Delivering at Pace
+[7. Achieving Commercial Outcomes](cscompetencyframwork/achievingcomercialoutcomes)
+[8. Delivering Value for Money](cscompetencyframwork/deliveringvalueformoney)
+[9. Managing a Quality Service](cscompetencyframwork/managingaqualityservice)
+[10. Delivering at Pace](cscompetencyframwork/deliveringatpace)
