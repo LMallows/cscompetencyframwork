@@ -8,15 +8,15 @@ The initial version of this site will only contain Grade 6/7 competencies.
 
 ### Setting Direction
 
-[1. Seeing the Big Picture](https://lmallows.github.io/cscompetencyframwork/cscompetencyframwork/seeingthebigpicture)
+[1. Seeing the Big Picture](seeingthebigpicture)
 
-[2. Changing and Improving](cscompetencyframwork/changingandimproving.md)
+[2. Changing and Improving](changingandimproving.md)
 
-[3. Making Effective Decisions](cscompetencyframwork/makingeffectivedecisions.md)
+[3. Making Effective Decisions](/makingeffectivedecisions.md)
 
 ### Engaging People
 
-[4. Leading and Communicating](cscompetencyframwork/leadingandcommunicating.md)
+[4. Leading and Communicating](leadingandcommunicating.md)
 
 [5. Collaborating and Partnering](cscompetencyframwork/collaboratingandpartnering.md)
 
