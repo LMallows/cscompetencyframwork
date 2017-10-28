@@ -1,6 +1,4 @@
-# Civil Service competency Framework
-
-This site contains the content of the Civil Service competency Framework in a HTML format. The framework is available on [gov.uk](https://www.gov.uk/government/publications/civil-service-competency-framework).
+This site contains the content of the Civil Service competency Framework in a HTML format. The framework is available on [gov.uk](https://www.gov.uk/government/publications/civil-service-competency-framework). All content is reporduced under the [OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/open-government-licence.htm). 
 
 The initial version of this site will only contain Grade 6/7 competencies. 
 
