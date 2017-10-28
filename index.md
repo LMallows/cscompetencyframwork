@@ -1,20 +1,20 @@
-#Civil Service competency Framework
+# Civil Service competency Framework
 
 This site contains the content of the Civil Service competency Framework in a HTML format. The framework is available on [gov.uk](https://www.gov.uk/government/publications/civil-service-competency-framework).
 
 The initial version of this site will only contain Grade 6/7 competencies. 
 
-##Clusters
+## Clusters
 
-###Setting Direction
+### Setting Direction
 
-[1. Seeing the Big Picture](/seeingthebigpicture)
+[1. Seeing the Big Picture](https://lmallows.github.io/cscompetencyframwork/cscompetencyframwork/seeingthebigpicture)
 
 [2. Changing and Improving](changingandimproving)
 
 [3. Making Effective Decisions](cscompetencyframwork/makingeffectivedecisions)
 
-###Engaging People
+### Engaging People
 
 [4. Leading and Communicating](cscompetencyframwork/leadingandcommunicating)
 
@@ -22,7 +22,7 @@ The initial version of this site will only contain Grade 6/7 competencies.
 
 [6. Building Capability for All](cscompetencyframwork/buildingcapabilityforall)
 
-###Delivering Results
+### Delivering Results
 
 [7. Achieving Commercial Outcomes](cscompetencyframwork/achievingcomercialoutcomes)
 
