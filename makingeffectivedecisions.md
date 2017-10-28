@@ -1,4 +1,4 @@
-# Seeing the Big Picture
+# Making Effective Decisions
 
 Effectiveness in this area is about using sound judgement, evidence and knowledge to arrive at accurate, expert and professional decisions and advice. For all staff it’s being careful and thoughtful about the use and protection of government and public information to ensure it is handled securely and with care. For leaders it’s about reaching evidence based strategies, evaluating options, impacts, risks and solutions and creating a security culture around the handling information. They will aim to maximise return while minimising risk and balancing a range of considerations to provide sustainable outcomes
 
