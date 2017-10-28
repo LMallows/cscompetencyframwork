@@ -8,9 +8,9 @@ The initial version of this site will only contain Grade 6/7 competencies.
 
 ### Setting Direction
 
-[1. Seeing the Big Picture](seeingthebigpicture)
+[1. Seeing the Big Picture](seeingthebigpicture.md)
 
-[2. Changing and Improving](changingandimproving.md)
+[2. Changing and Improving](/changingandimproving.md)
 
 [3. Making Effective Decisions](/makingeffectivedecisions.md)
 
