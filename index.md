@@ -10,24 +10,24 @@ The initial version of this site will only contain Grade 6/7 competencies.
 
 [1. Seeing the Big Picture](seeingthebigpicture.md)
 
-[2. Changing and Improving](/changingandimproving.md)
+[2. Changing and Improving](changingandimproving.md)
 
-[3. Making Effective Decisions](/makingeffectivedecisions.md)
+[3. Making Effective Decisions](makingeffectivedecisions.md)
 
 ### Engaging People
 
 [4. Leading and Communicating](leadingandcommunicating.md)
 
-[5. Collaborating and Partnering](cscompetencyframwork/collaboratingandpartnering.md)
+[5. Collaborating and Partnering](collaboratingandpartnering.md)
 
-[6. Building Capability for All](cscompetencyframwork/buildingcapabilityforall.md)
+[6. Building Capability for All](buildingcapabilityforall.md)
 
 ### Delivering Results
 
-[7. Achieving Commercial Outcomes](cscompetencyframwork/achievingcomercialoutcomes.md)
+[7. Achieving Commercial Outcomes](achievingcomercialoutcomes.md)
 
-[8. Delivering Value for Money](cscompetencyframwork/deliveringvalueformoney.md)
+[8. Delivering Value for Money](deliveringvalueformoney.md)
 
-[9. Managing a Quality Service](cscompetencyframwork/managingaqualityservice.md)
+[9. Managing a Quality Service](managingaqualityservice.md)
 
-[10. Delivering at Pace](cscompetencyframwork/deliveringatpace.md)
+[10. Delivering at Pace](deliveringatpace.md)
