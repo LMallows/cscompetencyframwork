@@ -17,12 +17,17 @@ The initial version of this site will only contain Grade 6/7 competencies.
 ###Engaging People
 
 [4. Leading and Communicating](cscompetencyframwork/leadingandcommunicating)
+
 [5. Collaborating and Partnering](cscompetencyframwork/collaboratingandpartnering)
+
 [6. Building Capability for All](cscompetencyframwork/buildingcapabilityforall)
 
 ###Delivering Results
 
 [7. Achieving Commercial Outcomes](cscompetencyframwork/achievingcomercialoutcomes)
+
 [8. Delivering Value for Money](cscompetencyframwork/deliveringvalueformoney)
+
 [9. Managing a Quality Service](cscompetencyframwork/managingaqualityservice)
+
 [10. Delivering at Pace](cscompetencyframwork/deliveringatpace)
