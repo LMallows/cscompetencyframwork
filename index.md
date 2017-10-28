@@ -10,24 +10,24 @@ The initial version of this site will only contain Grade 6/7 competencies.
 
 [1. Seeing the Big Picture](https://lmallows.github.io/cscompetencyframwork/cscompetencyframwork/seeingthebigpicture)
 
-[2. Changing and Improving](changingandimproving)
+[2. Changing and Improving](cscompetencyframwork/changingandimproving.md)
 
-[3. Making Effective Decisions](cscompetencyframwork/makingeffectivedecisions)
+[3. Making Effective Decisions](cscompetencyframwork/makingeffectivedecisions.md)
 
 ### Engaging People
 
-[4. Leading and Communicating](cscompetencyframwork/leadingandcommunicating)
+[4. Leading and Communicating](cscompetencyframwork/leadingandcommunicating.md)
 
-[5. Collaborating and Partnering](cscompetencyframwork/collaboratingandpartnering)
+[5. Collaborating and Partnering](cscompetencyframwork/collaboratingandpartnering.md)
 
-[6. Building Capability for All](cscompetencyframwork/buildingcapabilityforall)
+[6. Building Capability for All](cscompetencyframwork/buildingcapabilityforall.md)
 
 ### Delivering Results
 
-[7. Achieving Commercial Outcomes](cscompetencyframwork/achievingcomercialoutcomes)
+[7. Achieving Commercial Outcomes](cscompetencyframwork/achievingcomercialoutcomes.md)
 
-[8. Delivering Value for Money](cscompetencyframwork/deliveringvalueformoney)
+[8. Delivering Value for Money](cscompetencyframwork/deliveringvalueformoney.md)
 
-[9. Managing a Quality Service](cscompetencyframwork/managingaqualityservice)
+[9. Managing a Quality Service](cscompetencyframwork/managingaqualityservice.md)
 
-[10. Delivering at Pace](cscompetencyframwork/deliveringatpace)
+[10. Delivering at Pace](cscompetencyframwork/deliveringatpace.md)
