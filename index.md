@@ -22,7 +22,7 @@ The initial version of this site will only contain Grade 6/7 competencies.
 
 ### Delivering Results
 
-[7. Achieving Commercial Outcomes](achievingcomercialoutcomes.md)
+[7. Achieving Commercial Outcomes](achievingcommercialoutcomes.md)
 
 [8. Delivering Value for Money](deliveringvalueformoney.md)
 
